@@ -1,6 +1,6 @@
 HƯỚNG DẪN CHẠY WEBSITE BÁN GIÀY
 
-1. Giải nén thư mục WEB_BAN_GIAY vào:
+1. Giải nén thư mục shopgiay vào:
    C:\xampp\htdocs\
 
 2. Mở XAMPP:
@@ -15,14 +15,14 @@ HƯỚNG DẪN CHẠY WEBSITE BÁN GIÀY
    quan_ly_ban_giay
 
 5. Mở website:
-   http://localhost/WEB_BAN_GIAY/
+   http://localhost/shopgiay/
 
 6. Tài khoản quản trị:
    Email: admin@shoestore.local
    Mật khẩu: 123456
 
 7. Trang quản trị:
-   http://localhost/WEB_BAN_GIAY/admin/
+   http://localhost/shopgiay/admin/
 
 CHỨC NĂNG:
 - Trang chủ + danh mục + sản phẩm
